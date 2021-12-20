@@ -5,7 +5,6 @@ import java.util.List;
 import com.spring.crudspring.model.Course;
 import com.spring.crudspring.repository.CourseRepository;
 
-import org.springframework.boot.CommandLineRunner;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
